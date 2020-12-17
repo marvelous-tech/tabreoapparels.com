@@ -98,7 +98,7 @@ $(function() {
         }
     });
 
-    var date = new Date("01 Jan 2020");
+    var date = new Date("01 Jan 2021");
     var now = new Date();
     var diff = (date.getTime()/1000) - (now.getTime()/1000);  
 
